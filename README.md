@@ -30,6 +30,7 @@ If u use Windows, change scripts in package.json:
 ```
 
 Run project dev: `run dev`
+
 Run project production: `npm run start`
 
 Tested on:
